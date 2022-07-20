@@ -46,6 +46,7 @@ async def remt(event):
 async def start(event):
     text = "Send me Link of any message to clone it here, For private channel message, send invite link first.\n\n**SUPPORT:** @DoctorPDFs\n**DEV:** @drchetancreation"
     await start_srb(event, text)
+
     @bot.on(events.NewMessage(incoming=True, pattern="/start"))
 async def start(event):
     await event.reply(f'{st}', 
