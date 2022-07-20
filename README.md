@@ -2,9 +2,9 @@
   <b>Save restricted content Bot</b>
 </h1> 
 
-Contact: [Telegram](https://t.me/MaheshChauhan)
+Contact: [Telegram](https://t.me/drchetancreation)
 
-A stable telegram bot to get restricted messages with custom thumbnail support , made by @MaheshChauhan. 
+A stable telegram bot to get restricted messages with custom thumbnail support , made by drchetancreation. 
 
 - works for both public and private channels
 - Custom thumbnail support for Pvt medias
